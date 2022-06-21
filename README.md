@@ -14,6 +14,8 @@ File > Script > Other Script
 Default Keyboard Shortcuts  
 Ctrl + F12, command + F12
 
+<img width="540" alt="goldenratio" src="https://user-images.githubusercontent.com/77219005/174711133-1fc29a9f-01cc-46be-8e9f-9c6fe1c8d366.png">
+
 ### If the document is not open
 
 Create a new document with the following settings.
